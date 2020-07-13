@@ -19,3 +19,8 @@ Unfortunately, this is where it gets a little bit subjective. Your site should l
 -   Mobile-first design
 -   Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
 -   Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+
+## Deployed URL
+
+This portfolio is developed by using Bootstrap template and tweaking it to my own liking.
+Please visit the deployed URL (https://vulgarity2elegance.github.io/youzhi_hu_portfolio/).
